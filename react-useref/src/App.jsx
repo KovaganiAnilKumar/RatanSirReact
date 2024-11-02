@@ -22,7 +22,7 @@ function App()
 
   return(
           <>
-          <h1>modifications  are done </h1>
+       
              <h2> Total Marks</h2>
              <label>physics markks</label>
              <input type="number" ref={physicsRef} placeholder="Enter physics marks" />
