@@ -6,6 +6,7 @@ function App()
 {
   return(
     <>
+      <h1> Dome by Some one</h1>
     <h1>This is modification file</h1>
     <h1>This is App.jsx file</h1>
       <AboutUs />
